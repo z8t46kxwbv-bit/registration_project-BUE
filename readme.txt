@@ -28,7 +28,7 @@ This isn't just another CRUD app - it's a thoughtfully designed system that trea
 - **Repository Pattern** - Easy to test and maintain
 - **Entity Framework** - Smooth database operations
 
-**Database Excellence**️
+**Database Excellence*
 - **SQL Server** - Enterprise-grade reliability
 - **Smart Constraints** - Unique emails, proper data types
 - **Optimized Indexes** - Fast queries even with millions of users
@@ -475,7 +475,7 @@ vercel --prod
 - Update documentation
 
 
-## 🙏 Acknowledgments
+##Acknowledgments
 
 - **React Team** - For the amazing framework
 - **Microsoft** - For .NET and Entity Framework
@@ -493,7 +493,8 @@ vercel --prod
 - [ ] **Email Notifications** - Welcome emails for new users
 - [ ] **Profile Pictures** - Upload and display user avatars
 - [ ] **Activity Logs** - Track all user actions
-- [ ] **Dark Mode** - Because everyone loves dark mode! 🌙
+- [ ] **Dark Mode** - Because everyone loves dark mode
 - [ ] **Mobile App** - React Native version
 - [ ] **Real-time Updates** - Using SignalR
+
 
